@@ -1,8 +1,9 @@
 # Full BOX
 
-The FullBOX is the home off all possible experiments that can be built using the UC2 toolbox. Therefore, the actual content changes from time to time.
+The FullBOX is the home off all possible experiments that can be built using the UC2 toolbox. Therefore, the actual content changes from time to time to stay up to date.
 
-## Watch [HERE](https://www.youtube.com/watch?v=ey4uEFEG6MY) how to build a bright field and light sheet microscope from the BOX in less than 5 minutes! 
+## Watch [HERE](https://www.youtube.com/watch?v=ey4uEFEG6MY) how to build a bright field and light sheet microscope from the BOX in less than 5 minutes!
+FullBOX is meant to be used by university students and researchers for the everyday lab work or for advanced courses. On one hand it should serve as an alternative to nowadays microscopes, one that is cheaper, portable and easy to use by anyone, anywhere. Compared to the other BOXes, it is extended by motorized stages and programmable illumination modes, completely remote-controllable and can therefore create more advanced setups, like a compound or light sheet microscope. It is of course useful for education and workshops as well.
 
 That's how it could look like:
 
@@ -103,6 +104,10 @@ Transmission interferometry. Fine adjustment with kinematic mirrors (diagonal). 
 <img src="./IMAGES/UC2_Setups_10_spectrometer.png" height="400">
 </p>
 
+You also find some education material and more about the setups in DOCUMENTs. Currently the manual are only in english.  
+* [light sheet microscope](./DOCUMENTS/UC2_fullBOX_lightsheet_EN.pdf)
+* [smarthphone microscope](./DOCUMENTS/UC2_fullBOX_smartphone_EN.pdf)
+* [incubator microscope](./DOCUMENTS/UC2_fullBOX_incubator_EN.pdf)
 
 ## <img src="./IMAGES/S.png" height="40"> Participate
 If you have a cool idea, please don't hesitate to write us a line, we are happy to incorporate it in our design to make it even better.
