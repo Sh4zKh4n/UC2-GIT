@@ -34,6 +34,24 @@ In order to automate this, we designed a very simple z-stage itself relying on f
 	* coarse: around 30 mm (shifting the objective lens inside the slot)
 * very low cost by relying on off-the-shelf components
 
+## Z-stage in an incubator
+The Z-stage is used in our [Incubator Microscope](../../APPLICATIONS/APP_Incubator_Microscope), where it needs to be stable and provide a good performance over long time at the temperature of 37°C. However, PLA is not an ideal material for such conditions and our previous stage tended to drift aways as the material heated up.
+
+<p align="center">
+<img src="./IMAGES/Z-stage_incubator_01.jpeg" width="300">
+<img src="./IMAGES/Z-stage_incubator_02.jpeg" width="300">
+<img src="./IMAGES/Z-stage_incubator_03.jpeg" width="300">
+<img src="./IMAGES/Z-stage_incubator_04.jpeg" width="300">
+<img src="./IMAGES/Z-stage_incubator_05.jpeg" width="300">
+</p>
+
+The pictures above show the latest version of the Z-stage that should be able to cope with the temperature in the incubator. What is different:
+* The objective mount has now TWO SCREW, instead of one, to share the force.
+* There are TWO M2 SCREWS in the slider of the Z-stage, so the slit it not 3D-printed only
+* There are FIVE ARMS that attach via linear flexures to the frame, to share the force
+
+This version is currently being tested in an incubator. The STL files for it are not yet available, but for any experiments at room temperature, the available version of the stage works well.
+
 ## Parts
 
 ### <img src="../IMAGES/P.png" height="40"> 3D printing parts
@@ -54,15 +72,16 @@ For Fluomodule:
 * **The Clamp for microscope slides** which can fix the slide ([CLAMP](./STL/40_XY_Stage_Clamp_Slide_9.stl))
 
 ### <img src="./IMAGES/B.png" height="40"> Additional parts
+* Check out the [RESOURCES](../../TUTORIALS/RESOURCES) for more information!
 * 10× - 20× DIN912 M3×12 screws (galvanized steel) [🢂](https://eshop.wuerth.de/Zylinderschraube-mit-Innensechskant-SHR-ZYL-ISO4762-88-IS25-A2K-M3X12/00843%20%2012.sku/de/DE/EUR/)
-* 2× DIN912 M3×8 screws (galvanized steel)
+* 3× DIN912 M3×8 screws (galvanized steel)
 * 2× DIN912 M3×18 screws (galvanized steel)
 * 1× M3 Nut
 * 1× M3 Screw, 30 mm or longer (non-magnetic)
 * 1× 28-BYJ stepper motor with 1x Driving electronic [🢂](https://www.amazon.de/Elegoo-Stepper-Schrittmotor-28BYJ-48-Treiberplatine/dp/B01MEGIHLF/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=stepper+arduino&qid=1565008205&s=gateway&sr=8-1-spons&psc=1)
 * 1× ESP32 for controlling the motor [🢂](https://www.amazon.de/AZDelivery-NodeMCU-Development-Nachfolgermodell-ESP8266/dp/B074RGW2VQ/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=esp32&qid=1565008313&s=gateway&sr=8-3)
 * wires to connect everything; for example: 6× Female-Female Jumper Wire, 0.14 mm² [🢂](https://www.amazon.de/ZOORE-120pcs-Multicolored-Female-Breadboard/dp/B07P85V1G3/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=jumper+male&qid=1565690543&s=industrial&sr=1-5)
-* 1× USB Micro Cable [🢂](https://www.amazon.de/Gritin-Datenkabel-Geflochtene-Robust-Daten%C3%BCbertragung-Grau/dp/B07CJJHVKX/ref=sr_1_3?keywords=usb+c+kabel&qid=1566029225&s=gateway&sr=8-3)
+* 1× USB Micro Cable [🢂](https://www.amazon.de/dp/B0778FV6K4/ref=sr_1_2?dchild=1&fst=as%3Aoff&qid=1586361990&refinements=p_89%3AGritin&rnid=669059031&s=computers&sr=1-2)
 
 For fluomodule:
 * 2× LED

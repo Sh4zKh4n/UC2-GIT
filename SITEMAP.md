@@ -1,4 +1,4 @@
-# Site map for easy navigation
+# <a href="#icon01" name="icon01"><img src="./IMAGES/signpost.png" width=40></a> Site map for easy navigation
 
 ## [Main page with the story of UC2](./Readme.md)
 
@@ -78,6 +78,7 @@ There is also a dedicated [UC2+ImJoy Image Processing](https://github.com/bionan
  Also in the TUTORIALS folder:
 
 * [RESOURCES](./TUTORIALS/RESOURCES) of components we use
+  * Find a complete shopping'n'printing list including estimated prices for all modules and setups in this [GoogleDrive Spreadsheet](https://docs.google.com/spreadsheets/d/1U1MndGKRCs0LKE5W8VGreCv9DJbQVQv7O6kgLlB6ZmE/edit?usp=sharing)
 * [DATASHEETS](./TUTORIALS/DATASHEETS) of components we use
 
 
@@ -89,7 +90,7 @@ There is also a dedicated [UC2+ImJoy Image Processing](https://github.com/bionan
  * [In-line holography](./WORKSHOP/INLINE-HOLOGRAMM)
  * [Light sheet microscopy](./WORKSHOP/LIGHTSHEET)
  * [Comprehensive 2-day workshop](./WORKSHOP/OSLO)
- * [Short FullBOX workshop](./TiM2020)
- * [Simple Telescopes](../APPLICATION/AP_SIMPLE-Telescope)
- * [SimpleBOX](../TheBOX/SimpleBOX)
- * [CourseBOX](../TheBOX/CourseBOX)
+ * [Short FullBOX workshop](./WORKSHOP/TiM2020)
+ * [Simple Telescopes](./APPLICATIONS/APP_SIMPLE-Telescope)
+ * [SimpleBOX](./TheBOX/SimpleBOX)
+ * [CourseBOX](./TheBOX/CourseBOX)

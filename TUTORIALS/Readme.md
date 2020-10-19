@@ -1,4 +1,4 @@
-# <img src="./IMAGES/BtP.png" width="120"> From a Beginner to a Professional
+# <a href="#icon01" name="icon01"><img src="./IMAGES/BtP.png" width="120"></a> From a Beginner to a Professional
 
 ... in clear and simple steps! Here you find guidelines that will lead you through the UC2 toolbox.
 
@@ -8,16 +8,19 @@ Feel free to skip to the steps that you're most interested in - and feel free to
 
 All external links are used with the best intention - to provide more information and background on topics that are not in our main focus.
 
-## <img src="./IMAGES/FS.png" width="40"> First steps
+## <a href="#icon02" name="icon02"><img src="./IMAGES/FS.png" width="40"></a> First steps
 
 #### GitHub
 [What is GitHub? How to join?](https://guides.github.com/activities/hello-world/)  
 [How to access all the files easily?](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)  
 [How to make your First Contribution?](https://firstcontributions.github.io/)  
-[How to make your First Contribution if the previous guide still seems to complicated?](https://github.com/firstcontributions/first-contributions/blob/master/github-desktop-tutorial.md)
+[How to make your First Contribution if the previous guide still seems to complicated?](https://github.com/firstcontributions/first-contributions/blob/master/github-desktop-tutorial.md)  
+[How to edit GitHub documentation (Readme files)?](https://atom.io/)  
+[How to use GitHub flavored Markdown?](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 #### Shopping for material and components
-[What do I have to buy if I want to build something with UC2 toolbox?](./RESOURCES/Resources_step_by_step.md)
+[What do I have to buy if I want to build something with UC2 toolbox?](./RESOURCES/Resources_step_by_step.md)  
+[Is there a complete list of all setups, modules and components?](https://docs.google.com/spreadsheets/d/1U1MndGKRCs0LKE5W8VGreCv9DJbQVQv7O6kgLlB6ZmE/edit?usp=sharing)
 
 #### 3D printing
 [Never tried it but it's so cool you want to start now?](https://www.makeuseof.com/tag/beginners-guide-3d-printing/)  
@@ -37,23 +40,23 @@ Even if you don't aim for research application of the setups -handle the optical
 
 #### Software
 [Where do I find all the UC2-Software documentation in one place?](https://github.com/bionanoimaging/UC2-Software-GIT)  
-[How to prepare the hardware of the Raspberry Pi?](https://www.instructables.com/id/Raspberry-Pi-Touchscreen-Setup/)  
+[How to prepare the hardware of the Raspberry Pi?](https://www.techcoil.com/blog/how-to-setup-the-raspberry-pi-official-7-inch-touch-screen-with-your-raspberry-pi-4-model-b/)  
 [How to start with Raspberry Pi?](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)  
 
-## <img src="./IMAGES/TUT.png" width="40"> Tutorials
+## <a href="#icon03" name="icon03"><img src="./IMAGES/TUT.png" width="40"></a> Tutorials
 Tutorials take you by hand through your beginnings with UC2. It's useful to get familiar with the cubes before starting building a more complex system.  
 Choose whether you prefer a :feet: Step-by-Step tutorial with images or a :movie_camera: YouTube Video
 
-* TUT01: Print your first cube [:feet:](../CAD/ASSEMBLY_CUBE_Base_v2/STL) [:movie_camera:](https://www.youtube.com/watch?v=JswW8BexnC4&feature=youtu.be)
+* TUT01: Print your first cube [:feet:](../CAD/ASSEMBLY_CUBE_Base_v2/STL) [:movie_camera:](https://www.youtube.com/watch?v=SblqYJYXe4k&feature=youtu.be)
 * TUT02: Assemble your first cube [:feet:](../CAD/ASSEMBLY_CUBE_Base_v2#-assembly-tutorial-with-images) [:movie_camera:](https://www.youtube.com/watch?v=zAMedY0mWKA&t=1s)
 * TUT03: Give your first cube a function - lens as a magnifying glass [:feet:](../CAD/ASSEMBLY_CUBE_Lens_v2/TUT03)
-* TUT04: Build your first baseplate [:feet:](../CAD/ASSEMBLY_Baseplate_v2)[:movie_camera:](https://www.youtube.com/watch?v=zAMedY0mWKA)
+* TUT04: Build your first baseplate [:feet:](../CAD/ASSEMBLY_Baseplate_v2)[:movie_camera:](https://www.youtube.com/watch?v=qxA-4V7BRI0)
 * TUT05: Build your first optical setup - a telescope [:feet:](../APPLICATIONS/APP_SIMPLE-Telescope)
 * TUT06: Build your first microscope [:feet:](../APPLICATIONS/APP_SIMPLE-Smartphone_Microscope/mechanical)
-* TUT07: Get your first electronic part - simple LED matrix [:feet:](../CAD/ASSEMBLY_CUBE_LED_Matrix_v2/TUT08)
+* TUT07: Get your first electronic part - simple LED matrix [:feet:](../CAD/ASSEMBLY_CUBE_LED_Matrix_v2/TUT07)
 * TUT08: Build your first microscope with electronics [:feet:](../APPLICATIONS/APP_SIMPLE-Smartphone_Microscope/electronic)
 
-## <img src="./IMAGES/HT.png" width="120"> How-to guides
+## <a href="#icon04" name="icon04"><img src="./IMAGES/HT.png" width="120"></a> How-to guides
 How-to guides show you how to assemble cubes for various functions and how to build many different optical setups, once you are familiar with the basic idea. It also takes you from the mechanical-only to motorized systems.
 
 * [HOW-TO find all the cubes and components](../CAD)
@@ -63,16 +66,16 @@ How-to guides show you how to assemble cubes for various functions and how to bu
 * [HOW-TO print the UC2 parts with a *Prusa i3 MK3S* Printer](./PRINTER)
 * [HOW-TO import your ideas into the UC2 framework](../MDK)
 * [HOW-TO easily sketch your UC2 setups](../MDK/DRAW.IO)
-* HOW-TO use UC2 toolbox for education
-* HOW-TO use UC2 toolbox for research
+* HOW-TO use UC2 toolbox for education?
+* HOW-TO use UC2 toolbox for research?
 
-## <img src="./IMAGES/CG.png" width="40"> Contributor guidelines
+## <a href="#icon05" name="icon05"><img src="./IMAGES/CG.png" width="40"></a> Contributor guidelines
 
 We appreciate that you want to get involved! Your help is valuable for us, even if you are not a skilled researcher, maker or programmer. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 Find the detailed guidelines in [CONTRIBUTING](../CONTRIBUTING.md)
 
-## <img src="./IMAGES/RG.png" width="40"> Reference guides
+## <a href="#icon06" name="icon06"><img src="./IMAGES/RG.png" width="40"></a> Reference guides
 Reference guides give you more information on specific topics and provide technical details.  
 Find out more about...
 

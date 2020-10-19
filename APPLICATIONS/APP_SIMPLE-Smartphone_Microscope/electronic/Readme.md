@@ -48,6 +48,7 @@ In the end it should look like this:
 </p>
 
 ## <img src="../IMAGES/B.png" width="40"> Additional components
+* Check out the [RESOURCES](../../../TUTORIALS/RESOURCES) for more information!
 * 1× Smartphone
 * 1× LED-Array, Neopixel, 8x8 [🢂](https://www.amazon.de/AZDelivery-Matrix-CJMCU-8-Arduino-Raspberry/dp/B078HYP681/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=neopixel+matrix&qid=1565008576&s=gateway&sr=8-2)
 *  36× - 68× 5mm Ball magnets [🢂](https://www.magnetmax.de/Neodym-Kugelmagnete/Magnetkugel-Kugelmagnet-O-5-0-mm-Neodym-vernickelt-N40-haelt-400-g::158.html)
@@ -60,7 +61,7 @@ In the end it should look like this:
 * 1× Stepper Motor and 1× Driver Board [🢂](https://www.amazon.de/Elegoo-Stepper-Schrittmotor-28BYJ-48-Treiberplatine/dp/B01MEGIHLF/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=stepper+arduino&qid=1565008205&s=gateway&sr=8-1-spons&psc=1)
 * 3× Button [🢂](https://www.az-delivery.de/products/button-modul?_pos=2&_sid=f2080c1b0&_ss=r)
 * 15× Female-Female Jumper Wire, 0.14 mm² [🢂](https://www.amazon.de/ZOORE-120pcs-Multicolored-Female-Breadboard/dp/B07P85V1G3/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=jumper+male&qid=1565690543&s=industrial&sr=1-5)
-* 2× Power cables for ESP32 - USB-microUSB [🢂](https://www.amazon.de/Gritin-Datenkabel-Geflochtene-Robust-Daten%C3%BCbertragung-Grau/dp/B07CJJHVKX/ref=sr_1_3?keywords=usb+c+kabel&qid=1566029225&s=gateway&sr=8-3)
+* 2× Power cables for ESP32 - USB-microUSB [🢂](https://www.amazon.de/dp/B0778FV6K4/ref=sr_1_2?dchild=1&fst=as%3Aoff&qid=1586361990&refinements=p_89%3AGritin&rnid=669059031&s=computers&sr=1-2)
 
 
 ## <img src="../IMAGES/A.png" width="40"> Assembly
@@ -102,6 +103,14 @@ Prerequisities:
 * [Arduino IDE](https://www.arduino.cc/en/main/software) installed
 * ESP32 libraries - [Installation guide here](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
 * [FastLED.h](https://www.arduinolibraries.info/libraries/fast-led) library
+
+## <img src="../IMAGES/E.png" width="40"> Results
+<p align="center">
+<img src="../IMAGES/UC2_simple_smartphone_microscope_class.jpeg" height="250">
+<img src="../IMAGES/UC2_simple_smartphone_microscope_results.jpeg" height="250">
+<br>
+Right: Smartphone microscope during the classroom experiments; left: Red onion cells, the nucleus visible in the center 
+</p>
 
 **Where next?**  
 Find out more about the smartphone microscope in the [SimpleBOX manuals](../../../TheBOX/SimpleBOX/DOCUMENTS)  

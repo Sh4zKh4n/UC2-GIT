@@ -14,6 +14,7 @@ The `.stl` files can be directly printed using off-the-shelf 3D printer.
 An archive with all the files can be found [here](BASECUBE_v2.zip).
 
 ### <img src="./IMAGES/B.png" width=40>Additional parts
+* Check out the [RESOURCES](../../../TUTORIALS/RESOURCES) for more information!
 * 4× DIN912 M3×12 screws (galvanized steel)
 * 4× DIN912 M3×8 screws (galvanized steel) - or use 8× M3×12
 
@@ -37,7 +38,7 @@ For general advice on 3D printing, have a look in the [TUTORIALS](../../../TUTOR
 
 ### Video Tutorial
 A quick printing tutorial can be found here:
-[![UC2 YouSeeToo - How to print the base-cube?](./IMAGES/CURA_1.png)](https://www.youtube.com/watch?v=JswW8BexnC4&feature=youtu.be)
+[![UC2 YouSeeToo - How to print the base-cube?](./IMAGES/CURA_1.png)](https://www.youtube.com/watch?v=SblqYJYXe4k&feature=youtu.be)
 
 ## Confusion about version v0 vs. version v2
 

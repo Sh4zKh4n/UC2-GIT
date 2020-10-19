@@ -36,6 +36,7 @@ width="600">
 In the [STL](./STL) folder you find lens holders for a thin and thick lens with diameter of 1 inch. When using different lenses, please follow our [Tutorial: Design your own Lens Holder](../../CAD/ASSEMBLY_CUBE_Lens_v2/STL#design-your-own-lens-holder).
 
 ## <img src="./IMAGES/B.png" width="40"> Additional components
+* Check out the [RESOURCES](../../TUTORIALS/RESOURCES) for more information!
 * 1× planoconvex lens, *f'* = +100 mm, diameter 25,4 mm (Artikel 2004) [🢂](https://optikbaukasten.de/)
 * 2× planoconvex lens, *f'* = +40 mm, diameter 25,4 mm, (Artikel 2120) [🢂](https://optikbaukasten.de/)
 * 1× planoconcave lens, *f'* = -50 mm, diameter 25,4 mm [🢂](https://www.thorlabs.com/thorproduct.cfm?partnumber=LC1259)
@@ -101,6 +102,9 @@ Source of information for the above text:  [1](https://en.wikipedia.org/wiki/Ref
 Where next?  
 The telescopes are also a part of the [SimpleBOX](../../TheBOX/SimpleBOX). Find out more about in the [SimpleBOX manuals](../../../TheBOX/SimpleBOX/DOCUMENTS)    
 Or return to the [TUTORIALS](../../../TUTORIALS)
+
+## <img src="./IMAGES/E.png" width="40"> Results
+None yet. Be the first to share yours! 
 
 ## <img src="./IMAGES/S.png" width="40"> Participate!
 

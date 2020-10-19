@@ -1,9 +1,17 @@
 ## Applications
-Here you can find all the optical setups we tested or proposed so far.
+<a href="#icon01" name="icon01"><img src="../IMAGES/signpost.png" width=30></a> Here you can find all the optical setups we tested or proposed so far.
+
+* For printing and assembly of all the cubes and modules go to [CAD](../CAD)
+* For setups compilations go to [TheBOX](../TheBOX)
+* For beginner's tutorials, how-to guides and more guidelines go to [TUTORIALS](../TUTORIALS)
+* For information on the electronic parts go to [ELECTRONICS](../ELECTRONICS)
+* For information on the software go to the dedicated repository [UC2-Software-GIT](https://github.com/bionanoimaging/UC2-Software-GIT)
+* For the Bill of Materials go to [RESOURCES](../TUTORIALS/RESOURCES)
+* For anything else, have a look at the [SITEMAP](../SITEMAP.md)
 
 This is a growing list of available optical setups coming along with tutorials and alignment instructions. The most important part is the core building block as you find in every modular toolbox. A detailed description of the the **UC2** cube can be found [here](../CAD/ASSEMBLY_CUBE_Base_v2/Readme.md).
 
-## <img src="./IMAGES/E.png" width="40"> List of available Applications (APPs)
+## <a href="#icon02" name="icon02"><img src="./IMAGES/E.png" width="40"></a> List of available Applications (APPs)
 
 ### Compilations
 
@@ -33,6 +41,8 @@ This is a growing list of available optical setups coming along with tutorials a
 * [openKOEHLER - Phase Contrast enhancement using an adaptive Koehler illumination](./APP_openKOEHLER)
 * [openXYtable - Module](./APP_openXYTable)
 * [Ptychography](./APP_Ptychography)
+* [Fluorescent Microscope with infinity optics and a Laser ](./APP_Fluorescence_Microscope_infinity)
+
 
 ## General Naming Convetion and Structure of UC2
 ![](./IMAGES/UC2_Structure.png)
@@ -45,10 +55,13 @@ If you're unsure, check out the [Modular Developer Kit](../MDK) - there you find
 
 The outer cube dimensions stayed the same, but the inserts changed completely!
 
-## <img src="./IMAGES/D.png" width="40"> List of available Modules (CUBEs):
+## <a href="#icon03" name="icon0š"><img src="./IMAGES/D.png" width="40"></a> List of available Modules (CUBEs):
 A list of available Cubes that are the building blocks of all our setups can be found in [CAD](../CAD).
 
-## <img src="./IMAGES/S.png" width="40"> Participate
+### Complete overview of setups, modules, parts to buy and parts to print
+Find a complete shopping'n'printing list including estimated prices for all modules and setups in this [GoogleDrive Spreadsheet](https://docs.google.com/spreadsheets/d/1U1MndGKRCs0LKE5W8VGreCv9DJbQVQv7O6kgLlB6ZmE/edit?usp=sharing)!
+
+## <a href="#icon04" name="icon04"><img src="./IMAGES/S.png" width="40"></a> Participate
 If you have a cool idea, please don't hesitate to contact us, we are happy to incorporate it in our design to make it even better.  
 More setups are coming soon!
 Inspire us with your ideas - we try to make it work! :-)

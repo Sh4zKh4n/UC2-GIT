@@ -27,11 +27,15 @@ The Cube consists of the following components.
 
 
 ### <img src="./IMAGES/B.png" height="40"> Additional parts
+* Check out the [RESOURCES](../../TUTORIALS/RESOURCES) for more information!
 * 8× DIN912 M3×12 screws (galvanized steel) [🢂](https://eshop.wuerth.de/Zylinderschraube-mit-Innensechskant-SHR-ZYL-ISO4762-88-IS25-A2K-M3X12/00843%20%2012.sku/de/DE/EUR/)
 * Hi-Power LED 1W/3W UV STAR Blue for the Holography experiment [🢂](https://www.ebay.de/itm/Hi-Power-LED-1W-3W-UV-STAR-Ultraviolet-/131326525056?var=)
 * Any LED STAR if you plan to use it for another application
 * wires
 * Resistor to down-convert the 5V supply-voltage to 2.5V for the LED; e.g. 180R @ 0.5W
+
+#### Pinhole
+An easy way to make your own pinhole from aluminium foil is described [here](https://www.jpl.nasa.gov/edu/learn/project/how-to-make-a-pinhole-camera/) and [here](https://www.fi.edu/space/eclipse/pinhole-camera).
 
 
 ## <img src="./IMAGES/A.png" height="40"> Assembly
