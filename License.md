@@ -1,5 +1,9 @@
 ## LICENSE
 
+<p >
+<img src="./IMAGES/svg1011.png" width=160>
+</p>
+
 ### Software
 
 	MIT License

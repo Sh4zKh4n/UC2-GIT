@@ -5,12 +5,13 @@ Over time, we optimised the SimpleBOX to be cheaper and even simpler and this is
 
 This is a SimpleBOX:
 <p align="center">
-<img src="./IMAGES/SimpleBOX_packed_v2.jpg" width="500">
+<img src="./IMAGES/SimpleBOX_packed_v2.jpg" width="400">
+<img src="./IMAGES/SimpleBOX.jpg" width="400">
 </p>
 
 This is a MiniBOX:
 <p align="center">
-<img src="./IMAGES/BOX_mini_v2.png" width="500">
+<img src="./IMAGES/MiniBOX.jpg" width="500">
 </p>
 
 The MiniBOX is intended for production by injection molding. The baseplate will come in puzzle-like pieces and therefore it will be possible to build any shape. It will also be possible to stack the cubes and baseplates in multiple layers. Then, no extra sample plate for the z-stage will be needed, but for now, for the 3D printed version it might be useful. Also, for now, use the baseplates listed in the 3D printing list.
@@ -59,7 +60,7 @@ Trasmission microscope (finite corrected), uses smartphone for image acquisition
 </p>
 
 
-You also find some education material and more about the setups in DOCUMENTs in [ENGLISH](./DOCUMENTS/UC2_simpleBOX_EN.pdf), [GERMAN](./DOCUMENTS/UC2_simpleBOX_DE.pdf), [FRENCH](./DOCUMENTS/UC2_simpleBOX_FR.pdf) and [CZECH](./DOCUMENTS/UC2_simpleBOX_CZ.pdf). These materials are not completely up to date, as we're currently developing a **MiniBOX booklet**, the comprehensive guide through the experiments and theory of Optics that will support the MiniBOX as a teaching tool.  
+You also find some education material and more about the setups in DOCUMENTs in english, german, french and czech (condensed materials for some of the experiments [here](./DOCUMENTS/SimpleBOX)). These materials are not completely up to date, as we're currently developing a **MiniBOX booklet**, the comprehensive guide through the experiments and theory of Optics that will support the MiniBOX as a teaching tool. You can find it [here](./DOCUMENTS/MiniBOX_booklet) but keep in mind it's still work in progress. If you have some suggestions for improvement, we'll be happy to hear them!   
 
 ## <a href="#icon03" name="icon03"><img src="./IMAGES/S.png" height="40"></a> Participate
 If you have a cool idea, please don't hesitate to write us a line, we are happy to incorporate it in our design to make it even better.

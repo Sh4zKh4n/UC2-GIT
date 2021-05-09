@@ -6,11 +6,13 @@
 
 ---
 
-**New**: The [Microscopy, Optical Alignment and Abbe Diffraction experiment](./TheBOX/CourseBOX/ALIGNMENT_InfOptics) were added to the CourseBOX. You can also watch a demonstration of the [Abbe Experiment on YouTube](https://youtu.be/NrkINpx6IMo)
+**New**: **Do you want to have TheBOX or a handy microscope? :microscope: How many openUC2 cubes does the world need? :earth_africa: Help us to find out by filling out our [Demand Survey](https://forms.gle/y6oAH8tsxNgedppDA) so we can make the cubes available :soon: Plase share with any researchers, teachers, educators, students, hackers, tinkerers, engineers and science enthusiasts that you know!** :green_heart:
 
-**New**: The [Lens Holder](./CAD/ASSEMBLY_CUBE_Lens_v2) works now for lenses with the diameter up to 50 mm!
+**New**: We got the official open hardware certification of OSHWA, under [`[OSHW] DE00110 | Certified open source hardware | oshwa.org/cert`](https://certification.oshwa.org/de000110.html)!
 
-**New**: New module: [Rectangular Aperture](./CAD/ASSEMBLY_CUBE_Aperture_Rectangular_v2); Simpler and better modules: [Mechanical Z-stage](./CAD/ASSEMBLY_CUBE_Z-STAGE_mechanical_v2), [Sample-stage for light sheet microscope](./CAD/ASSEMBLY_CUBE_S-STAGE_new_v2), [Magnetic Sample Holder](./CAD/ASSEMBLY_CUBE_Sample_Holder_v2) and [openSCAD Lens Holder](./CAD/ASSEMBLY_CUBE_Lens_v2)
+**New**: :boom: **UC2_v3 is now released!** :boom: [Watch how much time the IM cubes can save!](https://www.youtube.com/watch?v=M_oqieogAOo&feature=youtu.be&ab_channel=openUC2)   
+*We are working on making the IM Cubes and Puzzles available for sale, but we are not able to offer a 'BUY' button yet. If you are interested in buying some components, contact us via email info@useetoo.org*
+
 
 
 
@@ -20,6 +22,11 @@
 
 
 Cite this repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4041339.svg)](https://doi.org/10.5281/zenodo.4041339)
+
+
+[<img src="./IMAGES/OSHW_mark_DE000110.png" height=50 align="right">](https://certification.oshwa.org/de000110.html)
+This project provides certified open hardware.
+
 
 ---
 
@@ -63,11 +70,21 @@ Besides optical components, the **UC2** building blocks can also host electronic
 
 People are also encouraged to share their work. We are curious what the community is doing with our little blocks. All necessary details to modify the design of the blocks are given in the sub-folders of the specific folders. Share your ideas through our [@openUC2-Twitter account](https://twitter.com/openuc2).
 
+With the version UC2_v3 we introduced an **injection moulded (IM) cube**. This makes the assembly easier becuase no screws or magnets are needed for the Base Cube. But there is also a **3D-printed (3DP) cube** that is alternative to the IM one an it is fully compatible - the cubes and baseplates can be arbitrarily combined.   
+Find out more about the two different Cube designs in [ASSEMBLY_CUBE_Base](./CAD/ASSEMBLY_CUBE_Base) and more about the baseplate puzzles in [ASSEMBLY_Baseplate](./CAD/ASSEMBLY_Baseplate).
+
+*We are working on making the IM Cubes and Puzzles available for sale, but we are not able to offer a 'BUY' button yet. If you are interested in buying some components, contact us via email info@useetoo.org*
+
 A full cube + base-plate looks like that:
 <p align="center">
-<img src="./IMAGES/UC2_Explosion_v2.png" height="300">
-<br> Fig. 2: Assembly of the cube + base-plate; A set of ferro-magnetic screws hold the lid and base-cube in place and connect to four 5mm Neodym ballmagnets sitting in the base-plate; Optical components find their place inside the cube.
+<img src="./IMAGES/Assembly_Cube_IM_explosion.png" height="300">
+<img src="./IMAGES/Assembly_Cube_3DP_explosion.png" height="300">
+<br> Fig. 2: Assembly of the cube + base-plate; <br>
+LEFT: IM Cube - Two identical halves of the Cube are pressed together, the Cube connects to the baseplate via lego-like pins; <br>
+RIGHT: 3DP Cube - A set of ferro-magnetic screws hold the lid and base-cube in place and connect to four 5mm Neodym ballmagnets sitting in the baseplate, and extra set of M5 screws further fixes the cube to the baseplate and supports the alignment; Optical components find their place inside the cube.
 </p>
+
+:grey_exclamation: If you are still working with the v2 version of the cube, you find the documentation in the [UC2_v2 branch](https://github.com/bionanoimaging/UC2-GIT/tree/UC2_v2). Check out the Modular Developer Kit to learn about the [UC2 version history](./MDK#uc2-version-history).
 
 **UC2** can be used with cameras from the Raspberry Pi world, but creates even more beautiful images with your cellphone. Thus making cutting edge-research not only affordable, but also available.
 A more in-detail project description can be found in the [UC2 White-Paper](./TUTORIALS/DOCUMENTS/UC2_Whitepaper.pdf)
@@ -77,18 +94,20 @@ A more in-detail project description can be found in the [UC2 White-Paper](./TUT
 The idea is to use **UC2** as an open-standard or bridge to external hardware components and devices such as cameras or lenses. An already existing or customized adapter/insert creates the link to the **UC2** eco-system. A variety of ready-to-use adapters can be found in the folder [CAD](./CAD).
 
 <p align="center">
-<img src="./IMAGES/UC2_openstandard.png" width="550">
+<img src="./IMAGES/MDK.jpg" width="550">
 <br> Fig. 3: The structure of any UC2 assembly follows the green lines; A basic cube can hold an insert thus adapting to different components (i.e. lenses, etc.); A number of assembled cube-modules can form a complex optical system here called application
 </p>
 
-A more in-detail description of the **MDK** (**M**odular **D**eveloper **K**it) which explains how ***your idea*** can be adapted to the module system can be found in the [MDK](./MDK)-folder.
+A more in-detail description of the **MDK** (**M**odular **D**eveloper **K**it) which explains how ***your idea*** can be adapted to the module system can be found in the [MDK](./MDK)-folder. There you also found an explanation about the UC2 version history, if you found some confusing information through the repository.
 
 If you have a new part, we are eager to see it. Please feel free to share it on available websites like Twitter, Thingiverse, Github or any other platform of choice!
 
 ### Read more about the project in our papers:
+The UC2 paper: A versatile and customizable low-cost 3D-printed open standard for microscopic imaging is available on [Nature Communications](https://www.nature.com/articles/s41467-020-19447-9) [![DOI:10.1038/s41467-020-19447-9](http://img.shields.io/badge/DOI-10.1038/s41467_020_19447_9-000000.svg)](https://doi.org/10.1038/s41467-020-19447-9)
 All data from the paper is available in [Zenodo](https://doi.org/10.5281/zenodo.4018965) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4018965.svg)](https://doi.org/10.5281/zenodo.4018965)  
-Our Pre-print  is available on [Biorxiv](https://www.biorxiv.org/content/10.1101/2020.03.02.973073v1)  [![DOI:10.1101/2020.03.02.973073](http://img.shields.io/badge/DOI-10.1101/2020.03.02.973073-B31B1B.svg)](https://doi.org/10.1101/2020.03.02.973073)  
+The Pre-print of the SIM+ISM paper is available on [Biorxiv](https://www.biorxiv.org/content/10.1101/2021.01.08.425840v1)  [![DOI:10.1101/2021.01.08.425840](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1101/2021.01.08.425840)  
 The COSI conference paper is out on [OSA](https://www.osapublishing.org/abstract.cfm?uri=ISA-2019-ITh3B.5)  [![DOI:10.1364/ISA.2019.ITh3B.5](http://img.shields.io/badge/DOI-10.1364/ISA.2019.ITh3B.5-36449F.svg)](https://doi.org/10.1364/ISA.2019.ITh3B.5)
+
 
 Where next? [<img src="./IMAGES/sitemap.png" height=50>](./SITEMAP.md)
 
@@ -128,6 +147,10 @@ This project is open so that anyone can get involved. You don't even have to lea
 
 
 ## Kits, License and Collaboration
+
+<p >
+<img src="./IMAGES/svg1011.png" width=160>
+</p>
 
 This project is open-source and is released under the CERN open hardware license. Our aim is to make the kits commercially available.
 We encourage everyone who is using our Toolbox to share their results and ideas, so that the Toolbox keeps improving. It should serve as a easy-to-use and easy-to-access general purpose building block solution for the area of STEAM education. All the design files are generally for free, but we would like to hear from you how is it going.
